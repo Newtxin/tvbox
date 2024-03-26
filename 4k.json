@@ -2,14 +2,14 @@
   "sites": [
      {
       "key": "drpy_js_豆瓣",
-      "name": "🔥聚玩盒子4K",
+      "name": "🔥公众号关注纽特帅",
       "type": 3,
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
     },
     {
       "key": "豆瓣",
-      "name": "🔥公众号：聚玩盒",
+      "name": "🔥公众号：纽特帅",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
