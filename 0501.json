@@ -3,6 +3,15 @@
   "spider": "https://gitee.com/newtxin/newtxin_tvbox/raw/master/custom_spider.txt",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+      {
+      "key": "豆瓣",
+      "name": "💘公众号:【纽特帅】💘",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "changeable": 1,
+      "ext": "https://gitee.com/hackyjso/box/raw/main/json/douban.json"
+    },
     {
       "key": "Zuiju",
       "name": "💘好剧┃弹幕💘",
