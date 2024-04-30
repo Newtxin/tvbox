@@ -4,27 +4,6 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "💘公众号:【纽特帅】💘",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "changeable": 1,
-      "ext": "https://gitee.com/hackyjso/box/raw/main/json/douban.json"
-    },
-    {
-      "key": "ziji2",
-      "name": "💘纽特帅┃4K|弹幕💘",
-      "type": 3,
-      "api": "csp_Zijijiekou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "token": "",
-        "url": "https://www.juziyou.vip"
-      }
-    },
-    {
       "key": "Zuiju",
       "name": "💘好剧┃弹幕💘",
       "type": 3,
