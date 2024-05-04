@@ -12,18 +12,7 @@
       "changeable": 1,
       "ext": "https://gitee.com/hackyjso/box/raw/main/json/douban.json"
     },
-        {
-      "key": "ziji2",
-      "name": "💘某橘┃4K|弹幕💘",
-      "type": 3,
-      "api": "csp_Zijijiekou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "token": "86966",
-        "url": "https://www.juziyou.vip"
-      }
-    },
+
     {
       "key": "Zuiju",
       "name": "💘好剧┃弹幕💘",
