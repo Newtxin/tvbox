@@ -4,7 +4,7 @@
         {
             "name": "直播",
             "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/Newtxin/iptv/main/0504.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
