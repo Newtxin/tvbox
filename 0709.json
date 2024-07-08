@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "drpy_js_豆瓣",
-      "name": "🐼┃公众号┃肥猫宝贝",
+      "name": "❤┃公众号┃纽特帅",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -529,7 +529,7 @@
     },
     {
       "key": "push_agent",
-      "name": "关注公众号：肥猫宝贝",
+      "name": "关注公众号：纽特帅",
       "type": 3,
       "api": "csp_Push",
       "playerType": "1",
@@ -549,7 +549,7 @@
       "url": "Web"
     },
     {
-      "name": "公众号：肥猫宝贝",
+      "name": "公众号：纽特帅",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
